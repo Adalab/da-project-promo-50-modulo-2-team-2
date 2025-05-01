@@ -15,8 +15,7 @@ CREATE TABLE IF NOT EXISTS albums (
     album_name VARCHAR(250),
     release_date DATE,
     total_tracks INT,
-    type_albums VARCHAR(100),
-    popularity FLOAT
+    type_albums VARCHAR(100)
 );
 
 CREATE TABLE IF NOT EXISTS tracks (
