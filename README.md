@@ -5,7 +5,7 @@ En este proyecto hemos analizado cuatro grandes géneros musicales: 'pop', 'rock
 
 El objetivo inicial ha sido estraer previamente la información de ambas páginas para luego combinarlas.
 
-Una vez creada nuestra base de datos, se procedió a realizar las consultas donde pudimos obtener información sobre los artistas más escuchados, el año en el que se sacaron más álbumes e incluso algún un dato curisoso como que artistas han publicado canciones de diferentes géneros musicales, entre otras consultas.
+Una vez creada nuestra base de datos, se procedió a realizar las consultas donde pudimos obtener información sobre los artistas más escuchados, el año en el que se sacaron más álbumes e incluso algún un dato curisoso,como por ejemplo, que artistas han publicado canciones de diferentes géneros musicales, entre otras queries.
 
 
 
