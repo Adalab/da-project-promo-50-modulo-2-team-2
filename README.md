@@ -1,14 +1,14 @@
 # da-project-promo-50-modulo-2-team-2
 MusicStream proyect 2010–2016 (Spotify & Last.fm)
 
-Este proyecto analiza datos musicales de los géneros 'pop', 'indie', 'rock' y 'hip hop' correspondientes al período comprendido entre los años 2010 a 2016, utilizando información extraída de las APIs de Spotify y Last.fm.
+En este proyecto hemos analizado cuatro grandes géneros musicales: 'pop', 'rock', 'indie' y ' hip-hop'. Para ello hemos extraído a través de las APIs de Spotify y Last.fm la información relativa al período de tiempo comprendido entre los años 2010 a 2016
 
-Objetivo
+El objetivo inicial ha sido estraer previamente la información de ambas páginas para luego combinarlas.
 
-Explorar y combinar datos de ambas plataformas para:
+Una vez creada nuestra base de datos, se procedió a realizar las consultas donde pudimos obtener información sobre los artistas más escuchados, el año en el que se sacaron más álbumes e incluso algún un dato curisoso,como por ejemplo, que artistas han publicado canciones de diferentes géneros musicales. 
 
-Estudiar características de las canciones (duración, géneros, artistas).
-Visualizar tendencias musicales por año y género.
+Esto es sólo una pequeña muestra de la valiosa información obtenida a través de las queries.
+
 
 -----------------
 
