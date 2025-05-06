@@ -12,41 +12,16 @@ Visualizar tendencias musicales por año y género.
 
 -----------------
 
-# 🎧 MusicStream (2010–2015)
+# 🎶🎶 Music Stream 🎶🎶
 
-**Studio54** presenta un análisis musical para la escuela **Musicalia**, centrado en los géneros **rock**, **pop**, **hip hop** e **indie** durante los años **2010 a 2015**.
+En **Studio54**, somos una empresa especializada en análisis de datos con un enfoque particular en la industria musical. Creemos que los números también cuentan historias, y que detrás de cada éxito hay patrones que vale la pena descubrir.
+Este proyecto, llamado Music Stream, surge de ese interés y tiene un objetivo claro: seleccionar y entender los mayores éxitos musicales entre 2010 y 2015, con la intención de lanzar un disco recopilatorio que represente lo mejor de esos años.
 
----
+Para ello, realizamos un análisis profundo de los géneros pop, rock, hip hop e indie, utilizando datos públicos extraídos de las APIs de Spotify y Last.fm. Nos interesaba saber qué canciones marcaron tendencia, cómo variaron los gustos del público a lo largo del tiempo, y qué artistas dejaron una huella en esa primera mitad de la década.
 
-## 🎯 Objetivo
+Recopilamos información sobre duración, popularidad, oyentes, reproducción, género y contexto temporal. Todo este trabajo fue estructurado técnicamente con herramientas como Python, MySQL y consultas SQL, permitiéndonos automatizar procesos y generar una base de conocimiento sólida para la toma de decisiones creativas y estratégicas.
 
-Explorar cómo el escenario mundial influye en las tendencias musicales, combinando datos de **Spotify** y **Last.fm**.
+Music Stream no solo es un estudio técnico; es también una forma de rendir homenaje a una época clave en la transformación del consumo musical.
+El análisis que hicimos no busca solo entender el pasado, sino proyectarlo hacia una nueva creación: un disco que recoja no solo las canciones más escuchadas, sino también las que definieron una sensibilidad, una generación y un modo de escuchar música.
 
----
-
-## 📦 Contenido
-
-- Canciones y álbumes por género y año  
-- Datos de popularidad, duración y mercado  
-- Biografía, oyentes y reproducciones de artistas  
-
----
-
-## 🛠️ Herramientas
-
-- Python (Pandas, Spotipy)  
-- MySQL  
-- APIs: Spotify + Last.fm  
-
----
-
-## 🚀 ¿Qué puedes hacer?
-
-- Visualizar tendencias por año y género  
-- Analizar artistas y canciones más populares  
-- Usar SQL y Python para generar insights reales  
-
----
-
-¡La música también se analiza! 🎶📊  
-
+¡La música también se analiza!🎶
